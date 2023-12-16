@@ -1,0 +1,88 @@
+Author,Title,Journal,Year,Summary,Technology used
+"Abba Babakura, Md Nasir Sulaiman and Mahmud A. Yusuf",Improved Method of Classification Algorithms for Crime Prediction," ISBAST, IEEE",2014,"The document ""Improved Method of Classification Algorithms for Crime Prediction"" proposes a method for using classification algorithms to predict crime categories in different states of the United States. The authors compare two different classification algorithms, Naïve Bayes and Back Propagation, and find that Naïve Bayes outperforms Back Propagation on this task. The authors also discuss the importance of data preprocessing and feature selection for improving the accuracy of crime prediction models.
+
+The document begins by discussing the challenges of crime prediction. Crime is a complex phenomenon that is influenced by a variety of factors, including socioeconomic status, demographics, and law enforcement practices. This makes it difficult to develop accurate crime prediction models.
+
+The authors then introduce their proposed method. Their method involves using a classification algorithm to predict crime categories based on a set of features that are extracted from crime data. The features that they use include socioeconomic indicators, demographic information, and law enforcement data.
+
+The authors compare the performance of their proposed method to two other methods: a simple baseline method and a method that uses a support vector machine classifier. They find that their proposed method outperforms both of the other methods.
+
+The authors conclude by discussing the importance of data preprocessing and feature selection for improving the accuracy of crime prediction models. They argue that it is important to clean the data and select the most relevant features before training a crime prediction model.",Naïve Bayes and Back Propagation.
+Lawrence McClendon and Natarajan Meghanathan,Using Machine Learning Algorithms to Analyze Crime Data,MLAIJ,2015,"Document provides a comprehensive review of crime analysis and visualization, with a case study of Maryland State, USA. The paper examines the use of spatial and temporal data to analyze and visualize crime patterns, with a focus on identifying cities with the most frequent crimes, the day and time of day when each type of crime occurs most often, and the most frequent type of crime for each type.
+
+The authors categorize the related works based on either spatial or spatial and temporal aspects. They then present a case study of Maryland State, USA, where they use a visualization system to identify the following patterns:
+
+Cities with the most frequent crimes: Baltimore, Prince George's County, and Montgomery County.
+Day and time of day when each type of crime occurs most often:
+Violent crimes: weekend nights.
+Property crimes: weekdays during the day.
+Most frequent type of crime for each type:
+Violent crimes: robbery and aggravated assault.
+Property crimes: theft and burglary.
+The authors conclude that crime analysis and visualization can be used to provide insights into crime patterns and help law enforcement agencies make better decisions about how to allocate resources.","Weka, Spatial and Temporal Analysis"
+"Cui-cui Sun, Chun-long Yao, Xu Li, Kejun Lee",Detecting Crime Types Using Classification Algorithms,Journal of Digital Information Management,2014,"The document discusses the statistical analysis of spatial crime data. It provides an overview of methods for modeling spatial crime data, including descriptive spatial statistics, visualization techniques, and spatially informed regression models. The document also discusses the analysis of movement, such as the length of the journey-to-crime and spatial interaction models.
+
+The document begins by discussing the relevance of spatial analysis for criminology. It notes that crime data are often geographically referenced, meaning that they have attributes that can be used to establish where they are situated relative to other units in the sample. This allows researchers to use spatial analysis methods to study how crime is distributed across space and how criminals move around.
+
+The document then discusses the different types of spatial crime data that can be analyzed. These include data on the location of crime events, the characteristics of offenders and victims, and the characteristics of crime targets. The document also discusses how spatial crime data can be sampled.
+
+The next section of the document discusses how spatial structure is specified in spatial statistics. It introduces the concept of spatial autocorrelation, which is a measure of the degree to which crime events are clustered in space. The document then reviews a variety of spatially informed regression models that can be used to model the relationship between crime and other factors, while taking into account spatial autocorrelation.
+
+The final section of the document discusses the analysis of movement. It addresses the length of the journey-to-crime and discusses spatial interaction models, spatial choice models, and the analysis of mobility triads. The document also highlights applications of these methods in the field of crime and criminal justice.","Spatial autocorrelation, Spatial interaction models, Spatial choice models, Analysis of mobility triads"
+"Nitin Nandkumar Sakhare, Swati Atul Joshi",Classification of Criminal data using J48 Algorithm,IFRSA International Journal of Data Warehousing & Mining,2015,"This paper investigates the use of machine learning to predict crime in Vancouver, Canada. The authors use two classification algorithms, K-nearest neighbor (KNN) and boosted decision tree, to analyze Vancouver crime data for the last 15 years.
+
+The authors processed the dataset using two different approaches:
+
+In the first approach, each neighborhood and crime category was given a unique number.
+In the second approach, the neighborhood and day of the week were given a binary number.
+The authors found that the crime prediction accuracy was between 39% and 44%. The authors conclude that machine learning can be used to predict crime, but more research is needed to improve the accuracy of the predictions.
+
+The authors also discuss the limitations of their study, such as the use of a single dataset and the use of a limited number of features. They suggest that future research should explore the use of machine learning to predict crime in different cities and using different datasets and features.","Machine learning to analyze the crime data.
+Classification algorithms to predict the type of crime that is likely to occur.
+K-nearest neighbor (KNN) and boosted decision tree classification algorithms were used specifically.
+Vancouver crime data for the last 15 years was used as the dataset.
+Two different approaches were used to process the dataset:
+Unique numbers were assigned to each neighborhood and crime category in the first approach.
+Binary numbers were assigned to the neighborhood and day of the week in the second approach."
+"Shaobing Wu, Changmei Wang , Haoshun Cao and Xueming Jia",Crime Prediction Using Data Mining and Machine Learning,Springer Nature Switzerland AG ,2020,"The document discusses the use of data mining and machine learning to predict crime in YD County, China. The authors use a dataset of crime statistics from 2012-09-01 to 2015-07-21 to train three machine learning algorithms: random forest, neural network, and Bayesian network. They find that the random forest algorithm performs the best, with an accuracy of 90%.
+
+The authors identify a number of factors that are most predictive of crime in YD County, including:
+
+Population size.
+Population distribution by age.
+Number of violent crimes committed.
+Number of drug-related crimes committed.
+Number of property crimes committed.
+Number of crimes committed by people with certain criminal records.
+The authors conclude that data mining and machine learning can be used to predict crime in YD County with a high degree of accuracy. They suggest that this information could be used by law enforcement agencies to allocate resources more effectively and to develop targeted crime prevention strategies.
+
+In addition to the factors listed above, the authors also discuss the importance of considering temporal and spatial patterns of crime when developing predictive models. For example, they find that crime rates tend to be higher in certain areas of YD County and at certain times of day.
+
+The authors' work provides a valuable contribution to the field of crime prediction. Their findings suggest that data mining and machine learning can be used to develop accurate and effective crime prediction models. This information could be used by law enforcement agencies to make more informed decisions about how to allocate resources and prevent crime.","Data mining to collect and analyze crime statistics.
+Machine learning to train predictive models.
+Random forest, neural network, and Bayesian network algorithms for crime prediction.
+The authors find that the random forest algorithm performs the best, with an accuracy of 90%."
+Miquel Vaquero Barnadas,MACHINE LEARNING APPLIED TO CRIME PREDICTION,Telecom BCN,27-09-2016,"This document discusses a system for crime analysis and prediction using data mining. The system uses a variety of data sources, including crime records, news articles, and social media posts. The authors propose a Naive Bayes classifier to classify crime data into different types. The system is able to achieve an accuracy of over 80% in predicting crime.
+
+The authors also discuss the challenges of crime analysis and prediction. One challenge is the large volume of data that needs to be processed. Another challenge is the incomplete and inconsistent nature of the data. Additionally, the authors note that the accuracy of the system depends on the accuracy of the training set.
+
+The system is able to predict regions with high probability for crime occurrence and visualize crime prone areas. This information can be used by law enforcement agencies to allocate resources more effectively and to develop crime prevention strategies.
+
+Overall, the document provides a comprehensive overview of crime analysis and prediction using data mining. The authors propose a system that is able to achieve high accuracy in predicting crime, even with incomplete and inconsistent data. The system has the potential to be a valuable tool for law enforcement agencies in reducing crime.","Data mining to collect and analyze crime data from various sources.
+Naive Bayes classifier to classify crime data into different types.
+Unstructured database (Mongo DB) to store crime data.
+Named Entity Recognition (NER) to extract entities from crime articles.
+Coreference Resolution to find the referenced entities in a text."
+"Kanimozhi N  , Keerthana N V, Pavithra G S, Ranjitha G ,Yuvarani S",CRIME TYPE AND OCCURRENCE PREDICTION USING MACHINE LEARNING ALGORITHM,"ICAIS, IEEE",2021,"The paper ""Crime Type and Occurrence Prediction Using Machine Learning Algorithm"" proposes a machine learning algorithm for predicting crime type and occurrence. The algorithm uses Naïve Bayes classification to predict the most likely crime type given the temporal and spatial data. The algorithm was trained on crime data from Denver, Colorado, and achieved an accuracy of 93.07%.
+
+The authors of the paper claim that their algorithm is better than previous prediction models because it can handle both nominal and real-valued attributes. This means that the algorithm can be used to predict crime types that are categorical (e.g., robbery, assault, burglary) as well as crime types that are continuous (e.g., number of crimes committed in a given area). Additionally, the authors claim that their algorithm is well-suited for real-time predictions. This means that the algorithm can be used to predict crime types that are likely to occur in the near future.
+
+The algorithm works by first converting the temporal and spatial data into a set of features. These features are then used to train a Naïve Bayes classifier. The Naïve Bayes classifier is a probabilistic classifier that assumes that the features are independent of each other. This assumption makes the classifier relatively simple to train and fast to predict with.
+
+Once the classifier is trained, it can be used to predict the most likely crime type given a new set of temporal and spatial data. The classifier does this by calculating the probability of each crime type occurring given the new data. The crime type with the highest probability is then predicted.
+
+The authors of the paper evaluate their algorithm on a dataset of crime data from Denver, Colorado. They find that their algorithm achieves an accuracy of 93.07%. This means that the algorithm is able to correctly predict the crime type in 93.07% of the cases.
+
+The authors conclude that their algorithm is a promising new approach for crime type and occurrence prediction. They suggest that the algorithm could be used by law enforcement agencies to allocate resources more effectively and to prevent crime.","Machine learning: The algorithm is a machine learning algorithm, which means that it learns from data to make predictions.
+Naïve Bayes classification: The algorithm uses Naïve Bayes classification to predict the most likely crime type given the temporal and spatial data.
+Temporal and spatial data: The algorithm uses temporal and spatial data to make predictions. Temporal data is data about time, such as the date and time of a crime. Spatial data is data about location, such as the address of a crime."
